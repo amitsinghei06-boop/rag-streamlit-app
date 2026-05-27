@@ -1,0 +1,10 @@
+streamlit
+chromadb
+pypdf
+pandas
+pillow
+pytesseract
+python-docx
+langchain
+sentence-transformers
+ollama
